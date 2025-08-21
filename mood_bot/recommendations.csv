@@ -1,0 +1,33 @@
+mood,recommendation
+happy,🎶 Song: "Happy" by Pharrell Williams
+happy,🎬 Movie: "Zootopia" (fun & uplifting)
+happy,🎶 Song: "Uptown Funk" by Bruno Mars
+happy,🎬 Movie: "La La Land"
+sad,🎶 Song: "Fix You" by Coldplay
+sad,🎬 Movie: "The Pursuit of Happyness" (inspiring)
+sad,🎶 Song: "Someone Like You" by Adele
+sad,🎬 Movie: "Inside Out"
+stressed,🎶 Song: "Weightless" by Marconi Union
+stressed,🎬 Movie: "Soul" (calming & thoughtful)
+stressed,🎶 Song: "Let It Be" by The Beatles
+stressed,🎬 Movie: "Good Will Hunting"
+angry,🎶 Song: "In the End" by Linkin Park
+angry,🎬 Movie: "The Karate Kid"
+angry,🎶 Song: "Lose Yourself" by Eminem
+angry,🎬 Movie: "Gladiator"
+lonely,🎶 Song: "Someone Like You" by Adele
+lonely,🎬 Movie: "Her"
+lonely,🎶 Song: "Talking to the Moon" by Bruno Mars
+lonely,🎬 Movie: "Cast Away"
+neutral,🎶 Song: "Counting Stars" by OneRepublic
+neutral,🎬 Movie: "Forrest Gump"
+neutral,🎶 Song: "Shape of You" by Ed Sheeran
+neutral,🎬 Movie: "Inception"
+excited,🎶 Song: "Can't Stop the Feeling!" by Justin Timberlake
+excited,🎬 Movie: "The Greatest Showman"
+excited,🎶 Song: "On Top of the World" by Imagine Dragons
+excited,🎬 Movie: "Spider-Man: Into the Spider-Verse"
+bored,🎶 Song: "Viva La Vida" by Coldplay
+bored,🎬 Movie: "Jumanji: Welcome to the Jungle"
+bored,🎶 Song: "Adventure of a Lifetime" by Coldplay
+bored,🎬 Movie: "Guardians of the Galaxy"
